@@ -3,11 +3,17 @@ public class Pessoa {
     //Atributos
     String nome;
 
-    cpf
+    String CPF;
+    String RG;
+    String telefone;
+    String telefoneEmergencia;
+    boolean termoCienciaRisco;
 
-    RG
-
-    Telefone
+    String rua;
+    String numero;
+    String bairro;
+    String cidade;
+    String estado;
 
 
     public void pesquisarEmpresa(){
